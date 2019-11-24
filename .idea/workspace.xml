@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0cad64b-5b83-4c6f-9c63-a44555f62ac6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1U4XFYrsKMqL3dxj63cZVT2bgCC" />
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\WeatherApiTest\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.WeatherTest.WeatherApiAndUIComparisonTest">
+    <configuration name="WeatherTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WeatherApiTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestPackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestPackage" />
+      <option name="MAIN_CLASS_NAME" value="TestPackage.WeatherTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeatherTest.WeatherApiAndUIComparisonTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WeatherApiTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestPackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestPackage" />
+      <option name="MAIN_CLASS_NAME" value="TestPackage.WeatherTest" />
+      <option name="METHOD_NAME" value="WeatherApiAndUIComparisonTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeatherTest.WeatherApiAndUIComparisonTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WeatherApiTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestPackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestPackage" />
+      <option name="MAIN_CLASS_NAME" value="TestPackage.WeatherTest" />
+      <option name="METHOD_NAME" value="WeatherApiAndUIComparisonTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeatherTest.maxAndMinTemperature (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WeatherApiTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestPackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestPackage" />
+      <option name="MAIN_CLASS_NAME" value="TestPackage.WeatherTest" />
+      <option name="METHOD_NAME" value="maxAndMinTemperature" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeatherTest.maxAndMinTemperature" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WeatherApiTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestPackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestPackage" />
+      <option name="MAIN_CLASS_NAME" value="TestPackage.WeatherTest" />
+      <option name="METHOD_NAME" value="maxAndMinTemperature" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.WeatherTest.WeatherApiAndUIComparisonTest" />
+        <item itemvalue="TestNG.WeatherTest.maxAndMinTemperature (1)" />
+        <item itemvalue="TestNG.WeatherTest.maxAndMinTemperature" />
+        <item itemvalue="TestNG.WeatherTest" />
+        <item itemvalue="TestNG.WeatherTest.WeatherApiAndUIComparisonTest (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0cad64b-5b83-4c6f-9c63-a44555f62ac6" name="Default Changelist" comment="" />
+      <created>1574616737400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574616737400</updated>
+    </task>
+    <servers />
+  </component>
+</project>

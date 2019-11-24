@@ -1,0 +1,7 @@
+<suite name="mySuite">
+    <test name="WeatherTest">
+        <classes>
+            <class name="TestPackage.WeatherTest"/>
+        </classes>
+    </test>
+</suite>
